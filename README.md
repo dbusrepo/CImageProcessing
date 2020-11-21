@@ -1,1 +1,1 @@
-# CImageProcessing
+# Image Processing in C 
